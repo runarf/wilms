@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wilms/static/css/main.5f361e03.chunk.css",
+    "main.js": "/wilms/static/js/main.578855aa.chunk.js",
+    "main.js.map": "/wilms/static/js/main.578855aa.chunk.js.map",
+    "runtime-main.js": "/wilms/static/js/runtime-main.1eafdd4b.js",
+    "runtime-main.js.map": "/wilms/static/js/runtime-main.1eafdd4b.js.map",
+    "static/js/2.7b47abc6.chunk.js": "/wilms/static/js/2.7b47abc6.chunk.js",
+    "static/js/2.7b47abc6.chunk.js.map": "/wilms/static/js/2.7b47abc6.chunk.js.map",
+    "index.html": "/wilms/index.html",
+    "precache-manifest.6529c12b6c14d564c70c5930017cee1c.js": "/wilms/precache-manifest.6529c12b6c14d564c70c5930017cee1c.js",
+    "service-worker.js": "/wilms/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/wilms/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7b47abc6.chunk.js.LICENSE.txt": "/wilms/static/js/2.7b47abc6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/wilms/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eafdd4b.js",
+    "static/js/2.7b47abc6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.578855aa.chunk.js"
+  ]
+}
